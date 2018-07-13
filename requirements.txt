@@ -1,4 +1,5 @@
 numpy
 matplotlib
-opencv-python==3.3.0
+#opencv-python==3.3.0
+opencv-python
 moviepy
